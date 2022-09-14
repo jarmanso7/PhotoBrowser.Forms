@@ -12,7 +12,7 @@
     <RootNamespace>FrescoImageViewer</RootNamespace>
     <AssemblyName>Stormlion.FrescoImageViewer</AssemblyName>
     <FileAlignment>512</FileAlignment>
-    <TargetFrameworkVersion>v9.0</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v12.0</TargetFrameworkVersion>
     <NuGetPackageImportStamp>
     </NuGetPackageImportStamp>
   </PropertyGroup>

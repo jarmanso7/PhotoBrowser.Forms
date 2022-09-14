@@ -8,7 +8,7 @@
     <OutputType>Library</OutputType>
     <RootNamespace>Test.Droid</RootNamespace>
     <AssemblyName>Test.Android</AssemblyName>
-    <TargetFrameworkVersion>v9.0</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v12.0</TargetFrameworkVersion>
     <AndroidApplication>True</AndroidApplication>
     <AndroidResgenFile>Resources\Resource.designer.cs</AndroidResgenFile>
     <AndroidResgenClass>Resource</AndroidResgenClass>
@@ -123,7 +123,7 @@
       <Name>PhotoBrowser</Name>
     </ProjectReference>
     <ProjectReference Include="..\Test\Test.csproj">
-      <Project>{F2E2687B-206C-4F10-BBBF-2452E4FD3E4C}</Project>
+      <Project>{DC4C5DE8-B3F1-4E61-87AC-1BE0CC22A214}</Project>
       <Name>Test</Name>
     </ProjectReference>
   </ItemGroup>
