@@ -106,10 +106,6 @@
     </AndroidResource>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\Binding\Android\FrescoImageViewer\FrescoImageViewer.csproj">
-      <Project>{5bf83dca-6a9b-44c7-9043-33020a623351}</Project>
-      <Name>FrescoImageViewer</Name>
-    </ProjectReference>
     <ProjectReference Include="..\..\Binding\Android\PhotoDraweeView\PhotoDraweeView.csproj">
       <Project>{0f034a8c-7c72-430b-a0fe-3574e88707f3}</Project>
       <Name>PhotoDraweeView</Name>
