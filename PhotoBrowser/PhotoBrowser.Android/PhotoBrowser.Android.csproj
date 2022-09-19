@@ -71,18 +71,6 @@
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Xml" />
-    <Reference Include="Xamarin.Android.Support.Animated.Vector.Drawable, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\..\packages\Xamarin.Android.Support.Animated.Vector.Drawable.28.0.0.3\lib\monoandroid90\Xamarin.Android.Support.Animated.Vector.Drawable.dll</HintPath>
-    </Reference>
-    <Reference Include="Xamarin.Android.Support.Annotations, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\..\packages\Xamarin.Android.Support.Annotations.28.0.0.3\lib\monoandroid90\Xamarin.Android.Support.Annotations.dll</HintPath>
-    </Reference>
-    <Reference Include="Xamarin.Android.Support.AsyncLayoutInflater, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\..\packages\Xamarin.Android.Support.AsyncLayoutInflater.28.0.0.3\lib\monoandroid90\Xamarin.Android.Support.AsyncLayoutInflater.dll</HintPath>
-    </Reference>
-    <Reference Include="Xamarin.Android.Support.Collections, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\..\packages\Xamarin.Android.Support.Collections.28.0.0.3\lib\monoandroid90\Xamarin.Android.Support.Collections.dll</HintPath>
-    </Reference>
     <Reference Include="Xamarin.Android.Support.Compat, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\..\packages\Xamarin.Android.Support.Compat.28.0.0.3\lib\monoandroid90\Xamarin.Android.Support.Compat.dll</HintPath>
     </Reference>
