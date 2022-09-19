@@ -1,5 +1,4 @@
-﻿using Com.Stfalcon.Frescoimageviewer;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,6 +9,7 @@ using Android.OS;
 using Android.Runtime;
 using Android.Views;
 using Android.Widget;
+using Com.Stfalcon.Frescoimageviewer;
 using Xamarin.Forms.Platform.Android;
 
 namespace Stormlion.PhotoBrowser.Droid
