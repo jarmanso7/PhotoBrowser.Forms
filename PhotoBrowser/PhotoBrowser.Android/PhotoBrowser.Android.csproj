@@ -53,21 +53,6 @@
     <Reference Include="Microsoft.CSharp" />
     <Reference Include="Mono.Android" />
     <Reference Include="mscorlib" />
-    <Reference Include="Naxam.Fresco.Droid, Version=1.5.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\..\packages\Naxam.Fresco.Droid.1.5.0\lib\MonoAndroid10\Naxam.Fresco.Droid.dll</HintPath>
-    </Reference>
-    <Reference Include="Naxam.FrescoCore.Droid, Version=1.5.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\..\packages\Naxam.FrescoCore.Droid.1.5.0\lib\MonoAndroid10\Naxam.FrescoCore.Droid.dll</HintPath>
-    </Reference>
-    <Reference Include="Naxam.FrescoDrawee.Droid, Version=1.5.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\..\packages\Naxam.FrescoDrawee.Droid.1.5.0\lib\MonoAndroid10\Naxam.FrescoDrawee.Droid.dll</HintPath>
-    </Reference>
-    <Reference Include="Naxam.FrescoImagePipeline.Droid, Version=1.5.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\..\packages\Naxam.FrescoImagePipeline.Droid.1.5.0\lib\MonoAndroid10\Naxam.FrescoImagePipeline.Droid.dll</HintPath>
-    </Reference>
-    <Reference Include="Naxam.FrescoImagePipelineBase.Droid, Version=1.5.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\..\packages\Naxam.FrescoImagePipelineBase.Droid.1.5.0\lib\MonoAndroid10\Naxam.FrescoImagePipelineBase.Droid.dll</HintPath>
-    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Numerics" />
@@ -291,6 +276,10 @@
     </AndroidResource>
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\..\Binding\Android\FrescoImageViewerUpdated\FrescoImageViewerUpdated.csproj">
+      <Project>{ed3685cf-288d-4b4a-9492-f1c9d0aaf867}</Project>
+      <Name>FrescoImageViewerUpdated</Name>
+    </ProjectReference>
     <ProjectReference Include="..\..\Binding\Android\PhotoDraweeView\PhotoDraweeView.csproj">
       <Project>{0f034a8c-7c72-430b-a0fe-3574e88707f3}</Project>
       <Name>PhotoDraweeView</Name>
